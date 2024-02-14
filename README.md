@@ -2,4 +2,4 @@
 The public readme for this organization 
 
 This is where we put links to socials, documentation, and such.  
-This is what users that ARENT organisation members see
+This is what users that ARENT organization members see
